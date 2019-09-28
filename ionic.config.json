@@ -1,0 +1,7 @@
+{
+  "name": "AppPitStop",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
